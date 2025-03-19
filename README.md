@@ -3,7 +3,7 @@
 Welcome to the Gamexs template! This is a modern and responsive HTML/CSS template designed specifically for game-related projects, including portfolios, landing pages, and promotional sites.
 
 ## Live Demo
-You can view the live demo of the template at: [Gamexs Template](https://gh66an.github.io/Gamexs-HTML-CSS-Game-Design-Template/)
+You can view the live demo of the template at: [Gamexs Template](https://ghassanalmoqbeli.github.io/Gamexs-HTML-CSS-Game-Design-Template/)
 
 ## Features:
 - Fully responsive layout designed for various screen sizes.
